@@ -1,4 +1,4 @@
-# Azure Lake House Architecture
+# Lake House Architecture with Azure
 
 ## Problem Statement
 
@@ -219,8 +219,7 @@ Visualize data using Power BI, providing business intelligence and insights.
 
 ![image](https://github.com/Definitive-KD/AzureLakeHouseArchitecture/assets/54216704/615977ac-6e05-4098-8c02-509905d8ad0d)
 
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/6deac261-4d13-43b9-8c05-4fa49f2668e1/d3e1ddccb001ee31e3ea?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/1dc83904-a082-4f2d-8b3b-d160c7b66ed4/54deb341271d941e4291?experience=power-bi
 
 
 Step 8: End-to-End Testing
@@ -244,5 +243,4 @@ Ensure the entire pipeline is automated and functioning correctly.
 
 
 ![image](https://github.com/Definitive-KD/AzureLakeHouseArchitecture/assets/54216704/afac6e46-a5f1-4c29-bcb9-de9e4d47d214)
-
 
