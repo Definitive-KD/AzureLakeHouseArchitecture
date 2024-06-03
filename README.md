@@ -1,7 +1,5 @@
 # Azure Lake House Architecture
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/6deac261-4d13-43b9-8c05-4fa49f2668e1/d3e1ddccb001ee31e3ea?experience=power-bi
-
 ## Problem Statement
 
 This project demonstrates the implementation of a Lake House Architecture using various Azure services. The primary goal is to move data from an on-premise SQL Server database to Azure Data Lake Storage Gen2, perform transformations using Azure Databricks, and visualize the data using Power BI. The project also sports the automation of the ETL pipeline and Successfully passes the testing. 
@@ -222,6 +220,7 @@ Visualize data using Power BI, providing business intelligence and insights.
 ![image](https://github.com/Definitive-KD/AzureLakeHouseArchitecture/assets/54216704/615977ac-6e05-4098-8c02-509905d8ad0d)
 
 
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/6deac261-4d13-43b9-8c05-4fa49f2668e1/d3e1ddccb001ee31e3ea?experience=power-bi
 
 
 Step 8: End-to-End Testing
