@@ -5,7 +5,7 @@
 This project demonstrates the implementation of a Lake House Architecture using various Azure services. The primary goal is to move data from an on-premise SQL Server database to Azure Data Lake Storage Gen2, perform transformations using Azure Databricks, and visualize the data using Power BI. The project also sports the automation of the ETL pipeline and Successfully passes the testing. 
 
 
-## Project Plan, Approach, and Objective
+## Project Objective, Plan and Approach
 
 - Objective
 
@@ -244,3 +244,7 @@ Ensure the entire pipeline is automated and functioning correctly.
 
 ![image](https://github.com/Definitive-KD/AzureLakeHouseArchitecture/assets/54216704/afac6e46-a5f1-4c29-bcb9-de9e4d47d214)
 
+
+
+
+This documentation provides a comprehensive overview of the steps and configurations required to implement the Lake House Architecture using Azure services.
