@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This project demonstrates the implementation of a Lake House Architecture using various Azure services. The primary goal is to move data from an on-premise SQL Server database to Azure Data Lake Storage Gen2, perform transformations using Azure Databricks, and visualize the data using Power BI. The project also sports the automation of the ETL pipeline and Successfully passes the testing. 
+This project demonstrates the implementation of a Lake House Architecture using various Azure services. Data is extracted from an on-premise SQL Server database using Azure Data Factory, which then orchestrates the movement and transformation process.  The data lands in Azure Data Lake Storage Gen2, where it's transformed using Azure Databricks. Finally, the transformed data is visualized with Microsoft Power BI.  The project also automates the ETL pipeline using Azure Data Factory and successfully passes all testing stages. 
 
 
 ## Project Objective, Plan and Approach
